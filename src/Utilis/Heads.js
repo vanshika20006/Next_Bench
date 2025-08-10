@@ -3,15 +3,16 @@ import Head from 'next/head';
 const Heads = () => {
     return (
         <Head>
-            <meta property="og:url" content="https://codestation21.com" />
+            <meta property="og:url" content="https://nextbench.com" />
             <meta property="og:type" content="website" />
-            <meta property="og:title" content="Code Station21 | Web and Mobile application developing agency" />
-            <meta property="og:description" content="We are web and mobile application developing agency . We use technology like React.js, Next.js, Express.js, Node.js, Restful API, GraphQL, MongoDB, Typrescript, Flutter and almost all javascript framework and libraray. We can solve design and develop applications fully coustomize for you. We provide complete digital space solutions for you." />
-            <title>Code Station21 | Web and Mobile application developing agency</title>
-            <meta name="description" content="We are web and mobile application developing agency . We use technology like React.js, Next.js, Express.js, Node.js, Restful API, GraphQL, MongoDB, Typrescript, Flutter and almost all javascript framework and libraray. We can solve design and develop applications fully coustomize for you. We provide complete digital space solutions for you." />
+            <meta property="og:title" content="NextBench | Innovative Web & Mobile Solutions" />
+            <meta property="og:description" content="NextBench is a leading web and mobile solutions provider specializing in modern technologies like React.js, Next.js, Node.js, Express, MongoDB, GraphQL, TypeScript, and Flutter. We deliver fully customized, scalable, and high-performance applications tailored to your business needs." />
+            <title>NextBench | Innovative Web & Mobile Solutions</title>
+            <meta name="description" content="NextBench is a leading web and mobile solutions provider specializing in modern technologies like React.js, Next.js, Node.js, Express, MongoDB, GraphQL, TypeScript, and Flutter. We deliver fully customized, scalable, and high-performance applications tailored to your business needs." />
             <link rel="shortcut icon" href="/favicon.ico" />
-            <meta name="author" content="Siam Ahnaf" />
+            <meta name="author" content="NextBench Team" />
         </Head>
     );
 };
+
 export default Heads;
