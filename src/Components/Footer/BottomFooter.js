@@ -46,7 +46,7 @@ const BottomFooter = () => {
             </Box>
             <Box sx={{ display: { smd: "none", xxs: "block" }, mb: "20px" }}>
                 <Stack sx={{ alignItems: "center", mb: { sm: "0px", xxs: "20px" } }}>
-                    <Stack direction="row" sx={styles.Terms}>
+                    {/* <Stack direction="row" sx={styles.Terms}>
                         <ButtonBase>
                             Purchase
                         </ButtonBase>
@@ -56,9 +56,9 @@ const BottomFooter = () => {
                         <ButtonBase onClick={handleClickOpen('terms')}>
                             Terms of Service
                         </ButtonBase>
-                    </Stack>
+                    </Stack> */}
                     <Typography variant="body1" component="p" sx={styles.Copyright}>
-                        © {new Date().getFullYear()} Code Station 21. All Rights Reserved.
+                        © {new Date().getFullYear()} Next Bench. All Rights Reserved.
                     </Typography>
                 </Stack>
             </Box>
