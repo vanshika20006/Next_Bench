@@ -5,19 +5,19 @@ const freelancers = [
   {
     name: "Josh Joseph",
     skill: "Full Stack Developer",
-    img: "https://randomuser.me/api/portraits/men/32.jpg",
+    img: "josh.jpg",
     portfolio: "https://joshjoseph.vercel.app/"
   },
   {
     name: "Harsh Singh Baghel",
     skill: "Full Stack Developer",
-    img: "https://randomuser.me/api/portraits/men/32.jpg",
+    img: "harsh.jpg",
     portfolio: "https://harshbaghel.me"
   },
   {
     name: "Janhavi Dubey",
     skill: "Full Stack Developer",
-    img: "https://randomuser.me/api/portraits/women/44.jpg",
+    img: "jhanvi.jpg",
     portfolio: "https://github.com/buildwithjanhavi"
   },
   {
