@@ -6,13 +6,13 @@ const freelancers = [
     name: "Josh Joseph",
     skill: "Full Stack Developer",
     img: "josh.jpg",
-    portfolio: "https://joshjoseph.vercel.app/"
+    portfolio: "https://github.com/JoshJoseph1234"
   },
   {
     name: "Harsh Singh Baghel",
     skill: "Full Stack Developer",
     img: "harsh.jpg",
-    portfolio: "https://harshbaghel.me"
+    portfolio: "https://github.com/harsh231075"
   },
   {
     name: "Janhavi Dubey",
