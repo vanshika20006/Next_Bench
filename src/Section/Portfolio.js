@@ -25,7 +25,19 @@ const freelancers = [
     skill: "UI/UX designer",
     img: "gangadeep.jpg", // placeholder image
     portfolio: "https://www.behance.net/gagandeepsingh334"
-  }
+  },
+  {
+    name: "Amrendra Ram Tripathi",
+    skill: "Full Stack Developer",
+    img: "aman.jpg",
+    portfolio: "https://github.com/amrendratripathi"
+  },
+  {
+    name: "Chirag Sood",
+    skill: "UI/UX designer",
+    img: "chirag.jpg", // placeholder image
+    portfolio: "https://www.figma.com/design/XOmINPzGe1l1nzF7xAmJQw/Designathon?m=auto&t=WGKQanwVOJDWHnUW-1"
+  },
 ];
 
 const FreelancerSection = () => {
