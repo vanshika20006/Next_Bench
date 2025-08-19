@@ -21,10 +21,10 @@ const freelancers = [
     portfolio: "https://github.com/buildwithjanhavi"
   },
   {
-    name: "Coming Soon",
-    skill: "Graphic Designer",
-    img: "https://via.placeholder.com/150", // placeholder image
-    portfolio: "#"
+    name: "Gagandeep Singh",
+    skill: "UI/UX designer",
+    img: "gangadeep.jpg", // placeholder image
+    portfolio: "https://www.behance.net/gagandeepsingh334"
   }
 ];
 
